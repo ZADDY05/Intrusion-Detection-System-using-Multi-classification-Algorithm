@@ -14,3 +14,14 @@ _•	Develop an Enhanced AI Based network attack detection model using various M
 
 So in this project we've used Multi-Classification algorithms to build a model that is more precise in detecting intrusion in any Network.
 
+## Models that we've used in this project:
+•	XGBoost
+• Random Forest
+• Linear SVC
+• Naïve Bayes
+• D-Tree 
+• LightGBM 
+
+### I've uploaded the code to train the IDS model. 
+
+# Thank You
